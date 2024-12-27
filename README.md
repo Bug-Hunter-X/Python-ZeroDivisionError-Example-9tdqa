@@ -1,0 +1,1 @@
+This example demonstrates a common Python error: ZeroDivisionError. The function attempts to divide by zero, resulting in an exception.  The solution shows how to handle this using exception handling.
